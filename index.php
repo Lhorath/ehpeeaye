@@ -9,22 +9,22 @@
     <meta name="author" content="Ehpeeaye">
     <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
     <meta name="theme-color" content="#111827">
-    <link rel="canonical" href="https://ehpeeaye.com/">
+    <link rel="canonical" href="http://ehpeeaye.dackdns.ddns.net/">
 
     <!-- Open Graph -->
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Ehpeeaye">
     <meta property="og:title" content="Ehpeeaye API Request Tool | Test REST APIs Online">
     <meta property="og:description" content="Build and test API requests quickly with headers, auth, query params, and structured response output.">
-    <meta property="og:url" content="https://ehpeeaye.com/">
-    <meta property="og:image" content="https://ehpeeaye.com/og-image.png">
+    <meta property="og:url" content="http://ehpeeaye.dackdns.ddns.net/">
+    <meta property="og:image" content="http://ehpeeaye.dackdns.ddns.net/og-image.png">
     <meta property="og:locale" content="en_US">
 
     <!-- Twitter -->
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Ehpeeaye API Request Tool | Test REST APIs Online">
     <meta name="twitter:description" content="A lightweight API client to send HTTP requests and inspect responses from your browser.">
-    <meta name="twitter:image" content="https://ehpeeaye.com/og-image.png">
+    <meta name="twitter:image" content="http://ehpeeaye.dackdns.ddns.net/og-image.png">
 
     <!-- Structured data -->
     <script type="application/ld+json">
@@ -34,7 +34,7 @@
             "name": "Ehpeeaye API Request Tool",
             "applicationCategory": "DeveloperApplication",
             "operatingSystem": "Web",
-            "url": "https://ehpeeaye.com/",
+            "url": "http://ehpeeaye.dackdns.ddns.net/",
             "description": "Online API request and response testing tool for REST APIs.",
             "offers": {
                 "@type": "Offer",

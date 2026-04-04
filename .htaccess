@@ -1,0 +1,19 @@
+# Document root should point at this folder (e.g. D:\GitHub\ehpeeaye on the server).
+# Public URL: http://ehpeeaye.dackdns.ddns.net/
+
+DirectoryIndex index.php index.html
+
+Options -Indexes
+
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    RewriteBase /
+
+    # Serve existing files and directories as usual
+    RewriteCond %{REQUEST_FILENAME} -f [OR]
+    RewriteCond %{REQUEST_FILENAME} -d
+    RewriteRule ^ - [L]
+
+    # SPA-style fallback: all other paths → index.php
+    RewriteRule ^ index.php [L]
+</IfModule>

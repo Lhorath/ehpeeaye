@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://ehpeeaye.com/sitemap.xml
+Sitemap: http://ehpeeaye.dackdns.ddns.net/sitemap.xml
