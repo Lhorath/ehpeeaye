@@ -1,17 +1,22 @@
-# Ehpeeaye — API request tool
+# Ehpeeaye — API Request Tool
 
-Browser-based **REST client**: build requests with headers, auth, query parameters, and inspect responses. Designed as a lightweight alternative to desktop API clients.
+> Browser-based REST client for building and sending HTTP requests with headers, auth, query parameters, and full response inspection — a lightweight alternative to desktop API clients.
 
-## Live
+## Live Demo
 
-http://ehpeeaye.dackdns.ddns.net/
+[ehpeeaye.dackdns.ddns.net](http://ehpeeaye.dackdns.ddns.net/)
 
 ## Requirements
 
-Serve as static files or open locally; no backend required for the UI.
+No backend required. Serve as static files or open `index.html` locally.
+
+## Usage
+
+1. Open the app in your browser.
+2. Set the request method, URL, headers, auth, and query parameters.
+3. Send the request and inspect the response.
 
 ## License
 
-See [LICENSE](LICENSE) (MIT).
-
-**Repository:** https://github.com/Lhorath/ehpeeaye
+MIT — see [LICENSE](LICENSE).  
+Copyright © 2026 [MacWeb Canada](https://macweb.ca) | Professional Online Solutions.
